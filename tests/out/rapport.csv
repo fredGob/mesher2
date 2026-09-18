@@ -1,0 +1,11 @@
+fichier;piece;statut;detail
+L_holes.step;L_HOLES_S1;OK;t=2 [2..2] elems=386 volume=-0.04% jac_min=0.34 @(64,30,4) elems_sous_0.3=0 trous_bouches=0 coins_supprimes=0 strategie=A-quasi-structure couronnes=2 essais=A:0.34 noeuds_sans_mesure=0 duree=1s
+L_holes.step;L_HOLES_S2;OK;t=1.5 [1.5..1.5] elems=140 volume=+0.00% jac_min=1.00 @(3,-29,2) elems_sous_0.3=0 trous_bouches=0 coins_supprimes=0 strategie=A-quasi-structure couronnes=0 essais=A:1.00 noeuds_sans_mesure=0 duree=0s
+curved_panel.step;CURVED_PANEL_S1;OK;t=2.983 [2.98..2.98] elems=1900 volume=-0.14% jac_min=0.99 @(104,-104,13) elems_sous_0.3=0 trous_bouches=0 coins_supprimes=0 strategie=A-quasi-structure couronnes=0 essais=A:0.99 noeuds_sans_mesure=0 duree=1s
+disc.step;DISC_S1;OK;t=2 [2..2] elems=206 volume=-0.35% jac_min=0.63 @(16,9,1) elems_sous_0.3=0 trous_bouches=0 coins_supprimes=0 strategie=A-quasi-structure couronnes=1 essais=A:0.63 noeuds_sans_mesure=0 duree=0s
+massive.step;MASSIVE_S1;ECHEC;peaux incompatibles (faces en conflit : 2200 mm2) : nervures, jonctions en T ou pièce massive duree=0s
+perforated.step;PERFORATED_S1;OK;t=1.2 [1.2..1.2] elems=1494 volume=+0.06% jac_min=0.47 @(96,49,1) elems_sous_0.3=0 trous_bouches=0 coins_supprimes=0 strategie=A-quasi-structure couronnes=12 essais=A:0.47 noeuds_sans_mesure=0 duree=2s
+pocket.step;POCKET_S1;OK;t=1.5 [1.2..1.5] elems=252 volume=-0.39% jac_min=0.99 @(16,9,1) elems_sous_0.3=0 trous_bouches=0 coins_supprimes=0 strategie=A-quasi-structure couronnes=0 essais=A:0.99 noeuds_sans_mesure=0 duree=0s
+ribbed.step;RIBBED_S1;ECHEC;peaux incompatibles (faces en conflit : 1140 mm2) : nervures, jonctions en T ou pièce massive duree=0s
+sharp_U.step;SHARP_U_S1;OK;t=1.6 [1.6..1.6] elems=220 volume=-0.00% jac_min=0.71 @(47,1,2) elems_sous_0.3=0 trous_bouches=0 coins_supprimes=0 strategie=A-quasi-structure couronnes=0 essais=A:0.71 noeuds_sans_mesure=0 duree=0s
+tiny_holes.step;TINY_HOLES_S1;OK;t=1.2 [1.2..1.2] elems=252 volume=+0.19% jac_min=1.00 @(2,1,1) elems_sous_0.3=0 trous_bouches=4 coins_supprimes=0 strategie=A-quasi-structure couronnes=0 essais=A:1.00 noeuds_sans_mesure=0 duree=0s
